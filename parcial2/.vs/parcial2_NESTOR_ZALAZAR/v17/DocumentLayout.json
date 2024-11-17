@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|c:\\users\\marco\\desktop\\programacion\\vs codes\\parcial2\\parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|solutionrelative:parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|solutionrelative:parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|solutionrelative:parcial2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|solutionrelative:parcial2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|c:\\users\\marco\\desktop\\programacion\\vs codes\\parcial2\\parcial2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53DBC43-C016-4F5A-9F11-A86BA9DEEC27}|parcial2\\parcial2_NESTOR_ZALAZAR.csproj|solutionrelative:parcial2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\Form1.cs",
+              "RelativeDocumentMoniker": "parcial2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\Form1.cs",
+              "RelativeToolTip": "parcial2\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:05:47.105Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\DB.cs",
+              "RelativeDocumentMoniker": "parcial2\\DB.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\DB.cs",
+              "RelativeToolTip": "parcial2\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:14:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "parcial2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\LoginForm.cs",
+              "RelativeToolTip": "parcial2\\LoginForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:05:33.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "parcial2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "parcial2\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:59:47.727Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\Form1.cs",
+              "RelativeDocumentMoniker": "parcial2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Marco\\Desktop\\Programacion\\VS CODES\\parcial2\\parcial2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "parcial2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:59:42.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
