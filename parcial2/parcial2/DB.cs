@@ -3,7 +3,8 @@ using System;
 
 public class DatabaseConnection
 {
-    private static string connectionString = "Host=localhost;Username=postgres;Password=1234;Database=parcial2";
+    private static string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=1404;Database=DBFACTURA";
+
 
     public static NpgsqlConnection Connect()
     {
